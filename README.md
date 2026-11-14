@@ -69,9 +69,9 @@ Commercial, cloud-hosted Push Notification and Alert Service platforms. The tabl
 
 ## 🟩 Open-Source Software 💻
 
-Self-hosted, community-driven Push Notification and Alert Service tools. Sorted by **GitHub Star Count** (descending). Each project includes a live social star badge linking directly to its GitHub stargazers.
+Self-hosted, community-driven Push Notification and Alert Service tools. Sorted by **GitHub Stars_Count** (descending). Each project includes a live social Stars_Badge linking directly to its GitHub stargazers.
 
-| Rank | Project | Stars ⭐ | Stack 🛠️ | License 📜 | Description 📝 |
+| Rank | Project | GitHub_Stars ⭐ | Stack 🛠️ | License 📜 | Description 📝 |
 |:---:|:---|:---:|:---|:---:|:---|
 | 1 | **[Novu](https://github.com/novuhq/novu)** | [![Novu Stars](https://img.shields.io/github/stars/novuhq/novu?style=social&color=white)](https://github.com/novuhq/novu/stargazers) | TypeScript, NestJS, MongoDB, Redis | MIT | Complete open-source notification infrastructure featuring a visual workflow designer, digest engine, user preference center, and embeddable in-app inbox components for React, Vue, and Angular. |
 | 2 | **[ntfy](https://github.com/binwiederhier/ntfy)** | [![ntfy Stars](https://img.shields.io/github/stars/binwiederhier/ntfy?style=social&color=white)](https://github.com/binwiederhier/ntfy/stargazers) | Go, Kotlin (Android), Swift (iOS) | Apache-2.0 / GPL-2.0 | Ultra-simple HTTP-based pub/sub notification service. Send instant push notifications to your phone or desktop via simple `curl` commands, scripts, or WebSockets. |
